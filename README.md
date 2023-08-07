@@ -17,7 +17,7 @@ Bellabeat, a high tech manufacturer of health focused smart devices for women.
 
 Analyze: 
 
-The Fir bit Fitness Tracker data set to gain insights into how non-Bellabeat users are using their smart devices and Bellabeat would like to use the data to gain insights on how to better market their devices.
+The Fitbit Fitness Tracker data set to gain insights into how non-Bellabeat users are using their smart devices and Bellabeat would like to use the data to gain insights on how to better market their devices.
 
 
 
