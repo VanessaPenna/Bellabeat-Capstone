@@ -1,16 +1,16 @@
 
-Capstone Project for Google Analytics Professional Certificate
+# Capstone Project for Google Analytics Professional Certificate
 
-Vanessa Penna
+## Vanessa Penna
 
-www.vanessadesireepenna@gmail.com
+[Email](https://vanessadesireepenna@gmail.com)
 
-www.linkedin.com/vanessapenna
+[Linkedin](https://linkedin.com/vanessapenna)
 
-www.github.com/VanessaPenna/Bellabeat-Capstone
+[Github](https://github.com/VanessaPenna/Bellabeat-Capstone)
 
 
-Ask:
+# Ask:
 
 Bellabeat, a high tech manufacturer of health focused smart devices for women.
 (Bellabeat.com).
@@ -29,7 +29,7 @@ Fitbit Fitness Health Tracker - Collaborator Mobius
 Top Contributors Anastasiia Chebotina, Macarena Lacasa, Julen Aranguren
 
 
-Analyze: 
+# Analyze: 
 
 The Fitbit Fitness Tracker data set to gain insights into how non-Bellabeat users are using their smart devices and Bellabeat would like to use the data to gain insights on how to better market their devices.
 
