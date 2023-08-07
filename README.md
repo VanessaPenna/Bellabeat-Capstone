@@ -5,7 +5,7 @@
 
 [Email](https://vanessadesireepenna@gmail.com)
 
-[Linkedin](https://linkedin.com/vanessapenna)
+[Linkedin](https://linkedin.com/in/vanessapenna)
 
 [Github](https://github.com/VanessaPenna/Bellabeat-Capstone)
 
