@@ -25,6 +25,8 @@ Sando Mur, Mathematician and Bellabeats’s co-founder, key member of executive 
 
 Data sources:
 
+https://www.kaggle.com/datasets/arashnic/fitbit
+
 Fitbit Fitness Health Tracker - Collaborator Mobius
 Top Contributors Anastasiia Chebotina, Macarena Lacasa, Julen Aranguren
 
